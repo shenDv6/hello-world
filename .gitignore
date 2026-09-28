@@ -1,0 +1,8 @@
+# video projects: keep source, drop dependencies and generated media
+node_modules/
+videos/*/out/
+videos/*/audio/
+videos/*/public/audio/
+*.mp4
+*.wav
+ffmpeg2pass-*

@@ -1,0 +1,125 @@
+{
+ "voice": "zh-CN-XiaoxiaoNeural",
+ "total": 90.043,
+ "lines": [
+  {
+   "scene": 1,
+   "text": "说起电信，你第一个想到的是什么？",
+   "file": "audio/vo/00.wav",
+   "start": 1.0,
+   "dur": 2.649
+  },
+  {
+   "scene": 1,
+   "text": "一张卡？一根网线？还是每个月的流量？",
+   "file": "audio/vo/01.wav",
+   "start": 4.099,
+   "dur": 4.235
+  },
+  {
+   "scene": 2,
+   "text": "今天，苏州电信要给你来点不一样的——",
+   "file": "audio/vo/02.wav",
+   "start": 10.034,
+   "dur": 3.129
+  },
+  {
+   "scene": 2,
+   "text": "AI！",
+   "file": "audio/vo/03.wav",
+   "start": 13.613,
+   "dur": 0.547
+  },
+  {
+   "scene": 3,
+   "text": "先看底气。太湖边的吴江，中国电信承建的长三角算力调度中心，",
+   "file": "audio/vo/04.wav",
+   "start": 16.16,
+   "dur": 6.281
+  },
+  {
+   "scene": 3,
+   "text": "每秒，能算五百亿亿次！",
+   "file": "audio/vo/05.wav",
+   "start": 22.891,
+   "dur": 2.021
+  },
+  {
+   "scene": 4,
+   "text": "江苏九十七家国家级5G工厂，苏州电信一口气承建了二十三家，",
+   "file": "audio/vo/06.wav",
+   "start": 26.312,
+   "dur": 5.877
+  },
+  {
+   "scene": 4,
+   "text": "工厂里的每一条产线，都连上了网！",
+   "file": "audio/vo/07.wav",
+   "start": 32.639,
+   "dur": 2.692
+  },
+  {
+   "scene": 5,
+   "text": "最好玩的来了！天翼AI云电脑，预装星辰超级智能体。",
+   "file": "audio/vo/08.wav",
+   "start": 37.131,
+   "dur": 5.499
+  },
+  {
+   "scene": 5,
+   "text": "你只要说一句：帮我整理本周数据，生成周报。",
+   "file": "audio/vo/09.wav",
+   "start": 43.08,
+   "dur": 3.921
+  },
+  {
+   "scene": 5,
+   "text": "拆任务、找工具、出结果，它全包了！",
+   "file": "audio/vo/10.wav",
+   "start": 47.451,
+   "dur": 3.358
+  },
+  {
+   "scene": 5,
+   "text": "五万多个技能，写标书、做报表、审合同、敲代码，一句话就搞定！",
+   "file": "audio/vo/11.wav",
+   "start": 51.259,
+   "dur": 6.067
+  },
+  {
+   "scene": 6,
+   "text": "四层防护，国内首批通过中国信通院安全测试，用着放心；",
+   "file": "audio/vo/12.wav",
+   "start": 58.726,
+   "dur": 5.506
+  },
+  {
+   "scene": 6,
+   "text": "同样的活，算力消耗只要主流产品的五到八成，又快又省！",
+   "file": "audio/vo/13.wav",
+   "start": 64.682,
+   "dur": 4.942
+  },
+  {
+   "scene": 7,
+   "text": "现在，星辰超级智能体的用户，已经突破一百万啦！",
+   "file": "audio/vo/14.wav",
+   "start": 71.424,
+   "dur": 4.359
+  },
+  {
+   "scene": 8,
+   "text": "从卖流量，到卖智能。",
+   "file": "audio/vo/15.wav",
+   "start": 78.083,
+   "dur": 2.04
+  },
+  {
+   "scene": 8,
+   "text": "苏州电信，让AI，走进你的每一天！",
+   "file": "audio/vo/16.wav",
+   "start": 80.573,
+   "dur": 3.17
+  }
+ ]
+}
